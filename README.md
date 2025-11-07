@@ -30,6 +30,7 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+<img width="555" height="237" alt="image" src="https://github.com/user-attachments/assets/fbe32a0d-0e24-4a0d-8b50-512ead23d501" />
 
 
 # Result: The Prompt of the above task executed successfully
@@ -40,7 +41,4 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-
-
-# Result:
 
