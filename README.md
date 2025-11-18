@@ -32,7 +32,8 @@ Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 
 
-# Result: The Prompt of the above task executed successfully
+# Result: 
+The Prompt of the above task executed successfully
 
 
 
